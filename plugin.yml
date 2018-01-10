@@ -2,4 +2,4 @@ name: SimpleMessages
 main: SimpleMessages\SimpleMessages
 version: 1.2
 author: Dutok
-api: 3.0.0
+api: 3.0.0-ALPHA10
